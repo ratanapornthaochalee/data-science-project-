@@ -125,3 +125,32 @@ This indicates that **age is a meaningful factor** contributing to the likelihoo
 - Individuals categorized as **Risk** tend to be **older on average**.  
 - These findings support the importance of **age-targeted risk assessments** and **early prevention strategies**.
 
+## 📊 Findings & Insights: Gender vs Age Impact on CHD Risk
+
+### ❓ Key Question  
+**Age is a risk factor — but is the impact of age on ten-year CHD risk different between genders?**
+
+---
+
+### 🧠 Insight Summary  
+**Gender shows minimal impact** on heart disease risk,  
+whereas **age proves to be the dominant factor** for both males and females.
+
+---
+
+### 📈 Average Age by CHD Risk Group & Gender
+
+| **Gender** | **CHD Risk Group** | **Average Age** |
+|------------|---------------------|------------------|
+| Female     | Risk                | 55               |
+| Female     | No Risk             | 49               |
+| Male       | Risk                | 54               |
+| Male       | No Risk             | 48               |
+
+---
+
+### 📝 Interpretation  
+- Differences between males and females are **small**, indicating gender does not strongly influence CHD risk.  
+- In both genders, the **Risk** group is older than the **No Risk** group.  
+- This reinforces that **age is the primary contributing factor**, regardless of gender.
+
