@@ -244,18 +244,16 @@ This confirms a strong association between **higher BMI and increased CHD risk**
 - Obese individuals show the **highest estimated ten-year risk**, nearly **double** some lower BMI groups.  
 - BMI therefore serves as a **strong predictive factor** for coronary heart disease.
 
+---
+
 ## 📊 Findings & Insights: Combined Risk Factors and Ten-Year CHD Risk
 
 ### ❓ Key Question  
 **Does having multiple risk factors increase Ten-Year CHD risk compared to just one?**
 
----
-
 ### 🧠 Insight Summary  
 **Multiple combined risk factors result in the highest CHD risk**,  
 significantly exceeding both single-risk and no-risk groups.
-
----
 
 ### 📈 Average Ten-Year CHD Risk by Risk Level Group
 
