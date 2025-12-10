@@ -86,24 +86,6 @@ her systolic blood pressure?
 
 ---
 
-## 💡 Findings and Insights
-
-Based on our statistical analysis and data visualization, we identified several critical patterns regarding heart disease risk:
-
-### 1. Demographic Factors: Age vs. Gender
-* **Age is the Dominant Driver:** Age has a significant and consistent impact on CHD risk across all groups. The "Risk" group is consistently older than the "No Risk" group.
-* **Gender Impact is Minimal:** Unlike age, gender shows minimal impact on heart disease risk. Age proves to be the primary determinant for both men and women.
-
-### 2. Medical Risk Factors
-* **Glucose vs. Cholesterol:** High glucose levels were identified as a dominant risk factor, significantly outweighing the impact of high cholesterol.
-* **The Glucose-BP Connection:** Elevated blood glucose is strongly associated with higher systolic blood pressure (approx. 141 mmHg vs. 131 mmHg), confirming a link to increased cardiovascular stress.
-* **BMI Trends:** There is a clear upward trend in risk associated with BMI. The 10-year CHD risk peaks at nearly **20% for the Obese group**, compared to approximately **12% for those with normal weight**.
-
-### 3. Combined Risk Effect
-* **The Multiplier Effect:** Having multiple risk factors simultaneously results in the highest probability of CHD, significantly exceeding the risk associated with any single factor alone.
-
----
-
 ## 📊 Findings & Insights: Age Impact on CHD Risk
 
 ### ❓ Key Question  
@@ -258,26 +240,21 @@ significantly exceeding both single-risk and no-risk groups.
 
 ---
 
-## 📊 Findings and Insights
+## 💡 Findings and Insights
 
-### • **Does age have a significant impact on ten-year CHD risk?**  
-Consistent Age Impact: Across both genders, the **'Risk'** group is consistently older than the **'No Risk'** group.
+Based on our statistical analysis and data visualization, we identified several critical patterns regarding heart disease risk:
 
-### • **Age is a risk factor. But is the impact of age on ten-year CHD risk different between genders?**  
-Gender shows **minimal impact** on heart disease risk, whereas **age** proves to be the dominant factor for both groups.
+### 1. Demographic Factors: Age vs. Gender
+* **Age is the Dominant Driver:** Age has a significant and consistent impact on CHD risk across all groups. The "Risk" group is consistently older than the "No Risk" group.
+* **Gender Impact is Minimal:** Unlike age, gender shows minimal impact on heart disease risk. Age proves to be the primary determinant for both men and women.
 
-### • **Which is the dominant risk factor: Glucose or Cholesterol?**  
-High glucose is identified as the **dominant risk factor**, significantly outweighing the impact of high cholesterol.
+### 2. Medical Risk Factors
+* **Glucose vs. Cholesterol:** High glucose levels were identified as a dominant risk factor, significantly outweighing the impact of high cholesterol.
+* **The Glucose-BP Connection:** Elevated blood glucose is strongly associated with higher systolic blood pressure (approx. 141 mmHg vs. 131 mmHg), confirming a link to increased cardiovascular stress.
+* **BMI Trends:** There is a clear upward trend in risk associated with BMI. The 10-year CHD risk peaks at nearly **20% for the Obese group**, compared to approximately **12% for those with normal weight**.
 
-### • **Is elevated blood glucose associated with higher systolic blood pressure (sysBP)?**  
-Elevated blood glucose is associated with **higher systolic blood pressure** and increased cardiovascular stress.
-
-### • **Does the BMI category show a clear trend in Ten-Year CHD risk?**  
-Higher BMI is strongly associated with an **increased risk of heart disease**.
-
-### • **Does having multiple risk factors increase Ten-Year CHD risk compared to just one?**  
-Multiple combined risk factors result in the **highest CHD risk**, significantly exceeding single or no risk factors.
-
+### 3. Combined Risk Effect
+* **The Multiplier Effect:** Having multiple risk factors simultaneously results in the highest probability of CHD, significantly exceeding the risk associated with any single factor alone.
 
 
 
