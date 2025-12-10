@@ -269,7 +269,7 @@ significantly exceeding both single-risk and no-risk groups.
 - Even **one risk factor** increases CHD probability compared to having none.  
 - These results highlight the **compounding effect of multiple risk factors**, emphasizing the importance of comprehensive prevention strategies.
 
---
+---
 
 ## 📊 Findings and Insights
 
