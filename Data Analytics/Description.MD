@@ -97,19 +97,17 @@ Based on our statistical analysis and data visualization, we identified several 
 ### 3. Combined Risk Effect
 * **The Multiplier Effect:** Having multiple risk factors simultaneously results in the highest probability of CHD, significantly exceeding the risk associated with any single factor alone.
 
+---
+
 ## 📊 Findings & Insights: Age Impact on CHD Risk
 
 ### ❓ Key Question  
 **Does age have a significant impact on ten-year CHD risk?**
 
----
-
 ### 🧠 Insight Summary  
 **Consistent Age Impact:**  
 Across both genders, individuals in the **Risk** group are consistently older than those in the **No Risk** group.  
 This indicates that **age is a meaningful factor** contributing to the likelihood of developing ten-year CHD risk.
-
----
 
 ### 📈 Average Age by CHD Risk Group
 
@@ -118,25 +116,21 @@ This indicates that **age is a meaningful factor** contributing to the likelihoo
 | No Risk            | 49              |
 | Risk               | 54              |
 
----
-
 ### 📝 Interpretation  
 - **Age shows a direct and notable correlation** with CHD risk.  
 - Individuals categorized as **Risk** tend to be **older on average**.  
 - These findings support the importance of **age-targeted risk assessments** and **early prevention strategies**.
+
+---
 
 ## 📊 Findings & Insights: Gender vs Age Impact on CHD Risk
 
 ### ❓ Key Question  
 **Age is a risk factor — but is the impact of age on ten-year CHD risk different between genders?**
 
----
-
 ### 🧠 Insight Summary  
 **Gender shows minimal impact** on heart disease risk,  
 whereas **age proves to be the dominant factor** for both males and females.
-
----
 
 ### 📈 Average Age by CHD Risk Group & Gender
 
@@ -147,25 +141,21 @@ whereas **age proves to be the dominant factor** for both males and females.
 | Male       | Risk                | 54               |
 | Male       | No Risk             | 48               |
 
----
-
 ### 📝 Interpretation  
 - Differences between males and females are **small**, indicating gender does not strongly influence CHD risk.  
 - In both genders, the **Risk** group is older than the **No Risk** group.  
 - This reinforces that **age is the primary contributing factor**, regardless of gender.
+
+---
 
 ## 📊 Findings & Insights: Glucose vs Cholesterol as Risk Factors
 
 ### ❓ Key Question  
 **Which is the dominant risk factor: glucose or cholesterol?**
 
----
-
 ### 🧠 Insight Summary  
 **High glucose is identified as the dominant risk factor,**  
 significantly outweighing the impact of high cholesterol.
-
----
 
 ### 📈 CHD Risk Count by Glucose–Cholesterol Cluster
 
@@ -180,25 +170,22 @@ significantly outweighing the impact of high cholesterol.
 | Low glucose, medium cholesterol | No Risk             | 1,425     |
 | Low glucose, medium cholesterol | Risk                | 263       |
 
----
 
 ### 📝 Interpretation  
 - The **high glucose** group shows a **proportionally higher CHD risk**, even though the total sample size is smaller.  
 - Clusters with **low glucose** have much larger populations but lower proportional CHD risk.  
 - This highlights **glucose level as a stronger predictor** of CHD risk than cholesterol.
 
+---
+
 ## 📊 Findings & Insights: Blood Glucose vs Systolic Blood Pressure (sysBP)
 
 ### ❓ Key Question  
 **Is elevated blood glucose associated with higher systolic blood pressure (sysBP)?**
 
----
-
 ### 🧠 Insight Summary  
 Elevated blood glucose is associated with **higher systolic blood pressure**, averaging **141.4 mmHg** compared to **131.6 mmHg** in the normal glucose group.  
 This confirms a link between **high glucose levels and increased cardiovascular stress**.
-
----
 
 ### 📈 Average Systolic Blood Pressure by Glucose Group
 
@@ -207,26 +194,22 @@ This confirms a link between **high glucose levels and increased cardiovascular 
 | High Glucose      | 141.405                      |
 | Normal Glucose    | 131.586                      |
 
----
-
 ### 📝 Interpretation  
 - Individuals with **high glucose levels** exhibit **notably higher systolic blood pressure**.  
 - Elevated systolic pressure is a known contributor to cardiovascular disease risk.  
 - These findings strengthen the association between **glucose dysregulation** and **cardiovascular strain**.
+
+---
 
 ## 📊 Findings & Insights: BMI Category and Ten-Year CHD Risk
 
 ### ❓ Key Question  
 **Does the BMI category show a clear trend in Ten-Year CHD risk?**
 
----
-
 ### 🧠 Insight Summary  
 **Heart disease risk rises with BMI**, peaking at nearly **20%** in the obese group  
 compared to **12%** in normal-weight individuals.  
 This confirms a strong association between **higher BMI and increased CHD risk**.
-
----
 
 ### 📈 Average Ten-Year CHD Risk by BMI Category
 
@@ -237,7 +220,6 @@ This confirms a strong association between **higher BMI and increased CHD risk**
 | Overweight        | 0.17309                    |
 | Obese             | 0.19824                    |
 
----
 
 ### 📝 Interpretation  
 - There is a **clear upward trend**: CHD risk increases as BMI rises.  
