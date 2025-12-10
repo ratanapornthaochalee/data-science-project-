@@ -274,32 +274,20 @@ significantly exceeding both single-risk and no-risk groups.
 
 ## 📊 Findings and Insights
 
----
-
 ### • **Does age have a significant impact on ten-year CHD risk?**  
 Consistent Age Impact: Across both genders, the **'Risk'** group is consistently older than the **'No Risk'** group.
-
----
 
 ### • **Age is a risk factor. But is the impact of age on ten-year CHD risk different between genders?**  
 Gender shows **minimal impact** on heart disease risk, whereas **age** proves to be the dominant factor for both groups.
 
----
-
 ### • **Which is the dominant risk factor: Glucose or Cholesterol?**  
 High glucose is identified as the **dominant risk factor**, significantly outweighing the impact of high cholesterol.
-
----
 
 ### • **Is elevated blood glucose associated with higher systolic blood pressure (sysBP)?**  
 Elevated blood glucose is associated with **higher systolic blood pressure** and increased cardiovascular stress.
 
----
-
 ### • **Does the BMI category show a clear trend in Ten-Year CHD risk?**  
 Higher BMI is strongly associated with an **increased risk of heart disease**.
-
----
 
 ### • **Does having multiple risk factors increase Ten-Year CHD risk compared to just one?**  
 Multiple combined risk factors result in the **highest CHD risk**, significantly exceeding single or no risk factors.
