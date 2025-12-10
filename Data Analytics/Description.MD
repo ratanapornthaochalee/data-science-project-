@@ -96,3 +96,32 @@ Based on our statistical analysis and data visualization, we identified several 
 
 ### 3. Combined Risk Effect
 * **The Multiplier Effect:** Having multiple risk factors simultaneously results in the highest probability of CHD, significantly exceeding the risk associated with any single factor alone.
+
+## 📊 Findings & Insights: Age Impact on CHD Risk
+
+### ❓ Key Question  
+**Does age have a significant impact on ten-year CHD risk?**
+
+---
+
+### 🧠 Insight Summary  
+**Consistent Age Impact:**  
+Across both genders, individuals in the **Risk** group are consistently older than those in the **No Risk** group.  
+This indicates that **age is a meaningful factor** contributing to the likelihood of developing ten-year CHD risk.
+
+---
+
+### 📈 Average Age by CHD Risk Group
+
+| **CHD Risk Group** | **Average Age** |
+|--------------------|-----------------|
+| No Risk            | 49              |
+| Risk               | 54              |
+
+---
+
+### 📝 Interpretation  
+- **Age shows a direct and notable correlation** with CHD risk.  
+- Individuals categorized as **Risk** tend to be **older on average**.  
+- These findings support the importance of **age-targeted risk assessments** and **early prevention strategies**.
+
