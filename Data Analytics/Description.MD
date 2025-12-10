@@ -214,5 +214,35 @@ This confirms a link between **high glucose levels and increased cardiovascular 
 - Elevated systolic pressure is a known contributor to cardiovascular disease risk.  
 - These findings strengthen the association between **glucose dysregulation** and **cardiovascular strain**.
 
+## 📊 Findings & Insights: BMI Category and Ten-Year CHD Risk
+
+### ❓ Key Question  
+**Does the BMI category show a clear trend in Ten-Year CHD risk?**
+
+---
+
+### 🧠 Insight Summary  
+**Heart disease risk rises with BMI**, peaking at nearly **20%** in the obese group  
+compared to **12%** in normal-weight individuals.  
+This confirms a strong association between **higher BMI and increased CHD risk**.
+
+---
+
+### 📈 Average Ten-Year CHD Risk by BMI Category
+
+| **BMI Category**  | **Avg. Ten-Year CHD Risk** |
+|-------------------|----------------------------|
+| Normal weight     | 0.12022                    |
+| Underweight       | 0.14286                    |
+| Overweight        | 0.17309                    |
+| Obese             | 0.19824                    |
+
+---
+
+### 📝 Interpretation  
+- There is a **clear upward trend**: CHD risk increases as BMI rises.  
+- Obese individuals show the **highest estimated ten-year risk**, nearly **double** some lower BMI groups.  
+- BMI therefore serves as a **strong predictive factor** for coronary heart disease.
+
 
 
