@@ -263,12 +263,13 @@ significantly exceeding both single-risk and no-risk groups.
 | One Risk Factor           | 0.1476                      |
 | No Risk Factor            | 0.0951                      |
 
----
 
 ### 📝 Interpretation  
 - Individuals with **multiple risk factors** show the **highest predicted CHD risk**, more than double the no-risk group.  
 - Even **one risk factor** increases CHD probability compared to having none.  
 - These results highlight the **compounding effect of multiple risk factors**, emphasizing the importance of comprehensive prevention strategies.
+
+--
 
 ## 📊 Findings and Insights
 
