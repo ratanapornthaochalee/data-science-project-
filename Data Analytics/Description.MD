@@ -240,7 +240,7 @@ significantly exceeding both single-risk and no-risk groups.
 
 ---
 
-## 💡 Findings and Insights
+## 💡 Conclusion of Findings and Insights
 
 Based on our statistical analysis and data visualization, we identified several critical patterns regarding heart disease risk:
 
