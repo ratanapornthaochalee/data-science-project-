@@ -154,3 +154,38 @@ whereas **age proves to be the dominant factor** for both males and females.
 - In both genders, the **Risk** group is older than the **No Risk** group.  
 - This reinforces that **age is the primary contributing factor**, regardless of gender.
 
+## 📊 Findings & Insights: Glucose vs Cholesterol as Risk Factors
+
+### ❓ Key Question  
+**Which is the dominant risk factor: glucose or cholesterol?**
+
+---
+
+### 🧠 Insight Summary  
+**High glucose is identified as the dominant risk factor,**  
+significantly outweighing the impact of high cholesterol.
+
+---
+
+### 📈 CHD Risk Count by Glucose–Cholesterol Cluster
+
+| **Glucose–Cholesterol Cluster** | **CHD Risk Group** | **Count** |
+|---------------------------------|---------------------|-----------|
+| High glucose                    | No Risk             | 20        |
+| High glucose                    | Risk                | 20        |
+| Low glucose, high cholesterol   | No Risk             | 501       |
+| Low glucose, high cholesterol   | Risk                | 116       |
+| Low glucose, low cholesterol    | No Risk             | 1,153     |
+| Low glucose, low cholesterol    | Risk                | 158       |
+| Low glucose, medium cholesterol | No Risk             | 1,425     |
+| Low glucose, medium cholesterol | Risk                | 263       |
+
+---
+
+### 📝 Interpretation  
+- The **high glucose** group shows a **proportionally higher CHD risk**, even though the total sample size is smaller.  
+- Clusters with **low glucose** have much larger populations but lower proportional CHD risk.  
+- This highlights **glucose level as a stronger predictor** of CHD risk than cholesterol.
+
+
+
