@@ -60,12 +60,16 @@ To ensure the accuracy of our analysis and model, the following preprocessing st
 2.  **Handling Missing Values:**
     * Identified missing values (NaNs) in the dataset and removed the corresponding rows to maintain data integrity.
 
+---
+
 ### 🚩 Problems Identified
 Three critical data quality issues were identified during the exploration phase that required preprocessing:
 
 1.  **Missing Values:** Several records contained null values that needed to be dropped or imputed.
 2.  **Extreme Outliers:** Significant outliers were observed in medical variables, which could skew the analysis.
 3.  **Imbalanced Target:** The dataset shows a class imbalance, with significantly fewer "Risk" cases compared to "No Risk" cases.
+
+---
 
 ## ❓ Key Questions & Hypotheses
 
@@ -80,6 +84,7 @@ her systolic blood pressure?
 * **BMI Trend:** Does the BMI category (Underweight to Obese) show a clear trend in CHD risk?
 * **Combined Risks:** Does having multiple risk factors increase the risk compared to just one?
 
+---
 
 ## 💡 Findings and Insights
 
