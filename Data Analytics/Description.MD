@@ -187,5 +187,32 @@ significantly outweighing the impact of high cholesterol.
 - Clusters with **low glucose** have much larger populations but lower proportional CHD risk.  
 - This highlights **glucose level as a stronger predictor** of CHD risk than cholesterol.
 
+## 📊 Findings & Insights: Blood Glucose vs Systolic Blood Pressure (sysBP)
+
+### ❓ Key Question  
+**Is elevated blood glucose associated with higher systolic blood pressure (sysBP)?**
+
+---
+
+### 🧠 Insight Summary  
+Elevated blood glucose is associated with **higher systolic blood pressure**, averaging **141.4 mmHg** compared to **131.6 mmHg** in the normal glucose group.  
+This confirms a link between **high glucose levels and increased cardiovascular stress**.
+
+---
+
+### 📈 Average Systolic Blood Pressure by Glucose Group
+
+| **Glucose Group** | **Avg. Systolic BP (mmHg)** |
+|-------------------|------------------------------|
+| High Glucose      | 141.405                      |
+| Normal Glucose    | 131.586                      |
+
+---
+
+### 📝 Interpretation  
+- Individuals with **high glucose levels** exhibit **notably higher systolic blood pressure**.  
+- Elevated systolic pressure is a known contributor to cardiovascular disease risk.  
+- These findings strengthen the association between **glucose dysregulation** and **cardiovascular strain**.
+
 
 
