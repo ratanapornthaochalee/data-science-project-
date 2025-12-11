@@ -4,7 +4,7 @@
 
 📁 Project Structure
 * Data Analytics/ Exploratory Data Analysis (EDA), data cleaning, feature engineering, and data visualization.
-* Data Science / Machine Learning : 10 Year CHD Risk/ Model building, training, evaluation, and performance comparison across various machine learning algorithms.
+* Data Science / Machine Learning: 10 Year CHD Risk/ Model building, training, evaluation, and performance comparison across various machine learning algorithms.
 * README.md Overview of the project and my role as a student and data science practitioner.
 
 🛠️ Tools & Technologies
