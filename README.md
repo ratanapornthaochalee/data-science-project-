@@ -2,7 +2,7 @@
 
 🧠 About This Repository This project analyzes and predicts the 10-year Coronary Heart Disease (CHD) risk using data from the Framingham Heart Study (Kaggle – Heart Disease Prediction). My goal is to apply data analytics and data science techniques to explore risk factors, build predictive models, and gain insights that support early prevention strategies.
 
-📁 # Project Structure
+📁 Project Structure
 * Data Analytics/ Exploratory Data Analysis (EDA), data cleaning, feature engineering, and data visualization.
 * Data Science / Machine Learning : 10 Year CHD Risk/ Model building, training, evaluation, and performance comparison across various machine learning algorithms.
 * README.md Overview of the project and my role as a student and data science practitioner.
