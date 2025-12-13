@@ -251,8 +251,6 @@ but should also strongly target individuals who are **overweight**.
 
 Preventive strategies at this stage may help **reduce progression to obesity and future CHD risk**.
 
----
-
 ### 📌 BMI Classification Reference (WHO Standard)
 
 This analysis is based on **World Health Organization (WHO)** BMI classifications,  
@@ -265,6 +263,7 @@ a globally recognized medical benchmark:
 
 🔗 Reference: *WHO Nutrition Landscape*
 
+---
 
 ## 💡 Conclusion of Findings and Insights
 
