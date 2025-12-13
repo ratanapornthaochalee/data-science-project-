@@ -51,7 +51,7 @@ The variables are categorized into four main groups:
 
 ---
 
-## 🧹 Data Cleaning & Preprocessing
+## 🧹 Data Cleaning and Preprocessing
 
 To ensure the accuracy of our analysis and model, the following preprocessing steps were performed:
 
@@ -71,7 +71,7 @@ Three critical data quality issues were identified during the exploration phase 
 
 ---
 
-## ❓ Key Questions & Hypotheses
+## ❓ Key Questions and Hypotheses
 
 ### 1. General Information
 * **Age Impact:** Does age significantly impact the 10-year CHD risk?
