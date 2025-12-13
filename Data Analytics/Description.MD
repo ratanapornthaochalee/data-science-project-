@@ -58,7 +58,7 @@ To ensure the accuracy of our analysis and model, the following preprocessing st
 1.  **Data Integration & Mapping:**
     * Converted numerical codes into human-readable labels for analysis (e.g., mapping `Sex` to Male/Female, `TenYearCHD` to Risk/No Risk).
 2.  **Handling Missing Values:**
-    * Identified missing values (NaNs) in the dataset and removed the corresponding rows to maintain data integrity.
+    * Identified missing values (NaNs).
 
 ---
 
@@ -191,7 +191,7 @@ This confirms a link between **high glucose levels and increased cardiovascular 
 ## 📊 Findings & Insights: BMI Category and Ten-Year CHD Risk
 
 ### ❓ Key Question  
-**Does the BMI category show a clear trend in Ten-Year CHD risk?**
+**Which BMI Category Has the Highest Number of Cases?**
 
 ### 🧠 Insight Summary  
 **Heart disease risk rises with BMI**, peaking at nearly **20%** in the obese group  
@@ -215,30 +215,56 @@ This confirms a strong association between **higher BMI and increased CHD risk**
 
 ---
 
-## 📊 Findings & Insights: Combined Risk Factors and Ten-Year CHD Risk
+## 📊 Findings & Insights: BMI Category Distribution
 
 ### ❓ Key Question  
-**Does having multiple risk factors increase Ten-Year CHD risk compared to just one?**
+**Which BMI Category Has the Highest Number of Cases?**
 
-### 🧠 Insight Summary  
-**Multiple combined risk factors result in the highest CHD risk**,  
-significantly exceeding both single-risk and no-risk groups.
+### 🧠 Key Insight  
+The **Overweight** category has the highest number of cases, accounting for **265 individuals**,  
+which is significantly higher than:
 
-### 📈 Average Ten-Year CHD Risk by Risk Level Group
+- **Normal weight:** 195 cases  
+- **Obese:** 90 cases  
+- **Underweight:** 7 cases  
 
-| **Risk Level Group**      | **Avg. Ten-Year CHD Risk** |
-|---------------------------|-----------------------------|
-| Multiple Risk Factors     | 0.2589                      |
-| One Risk Factor           | 0.1476                      |
-| No Risk Factor            | 0.0951                      |
-
-
-### 📝 Interpretation  
-- Individuals with **multiple risk factors** show the **highest predicted CHD risk**, more than double the no-risk group.  
-- Even **one risk factor** increases CHD probability compared to having none.  
-- These results highlight the **compounding effect of multiple risk factors**, emphasizing the importance of comprehensive prevention strategies.
+This indicates that the **overweight population represents the largest at-risk group**,  
+making it the **primary target demographic for preventive health interventions**.
 
 ---
+
+### 📈 Number of Cases by BMI Category
+
+| **BMI Category** | **Number of Cases** |
+|------------------|---------------------|
+| Overweight       | 265                 |
+| Normal weight    | 195                 |
+| Obese            | 90                  |
+| Underweight      | 7                   |
+
+### 📝 Interpretation
+
+The data shows a **clear concentration of cases in the overweight group**, rather than the obese group.
+
+This suggests that **cardiovascular risk screening and early intervention** should not focus only on obesity,  
+but should also strongly target individuals who are **overweight**.
+
+Preventive strategies at this stage may help **reduce progression to obesity and future CHD risk**.
+
+---
+
+### 📌 BMI Classification Reference (WHO Standard)
+
+This analysis is based on **World Health Organization (WHO)** BMI classifications,  
+a globally recognized medical benchmark:
+
+- **BMI < 18.5** → Underweight  
+- **BMI 18.5 – 24.9** → Normal weight  
+- **BMI ≥ 25.0** → Overweight  
+- **BMI ≥ 30.0** → Obesity  
+
+🔗 Reference: *WHO Nutrition Landscape*
+
 
 ## 💡 Conclusion of Findings and Insights
 
