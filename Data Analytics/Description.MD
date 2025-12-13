@@ -231,8 +231,6 @@ which is significantly higher than:
 This indicates that the **overweight population represents the largest at-risk group**,  
 making it the **primary target demographic for preventive health interventions**.
 
----
-
 ### 📈 Number of Cases by BMI Category
 
 | **BMI Category** | **Number of Cases** |
