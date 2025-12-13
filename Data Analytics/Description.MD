@@ -260,7 +260,7 @@ a globally recognized medical benchmark:
 - **BMI ≥ 30.0** → Obesity  
 
 🔗 Reference: WHO: Nutrition Landscape Information System (NLiS)
-Source: https://apps.who.int/nutrition/landscape/help.aspx?menu=0&helpid=420
+* **Source:** https://apps.who.int/nutrition/landscape/help.aspx?menu=0&helpid=420
 
 ---
 
