@@ -259,7 +259,7 @@ a globally recognized medical benchmark:
 - **BMI ≥ 25.0** → Overweight  
 - **BMI ≥ 30.0** → Obesity  
 
-🔗 Reference: *WHO Nutrition Landscape*
+🔗 Reference: https://apps.who.int/nutrition/landscape/help.aspx?menu=0&helpid=420
 
 ---
 
