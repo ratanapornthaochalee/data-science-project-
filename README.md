@@ -10,7 +10,7 @@
 🛠️ Tools & Technologies
 * Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 * Jupyter Notebook
-* Machine Learning Algorithms (Logistic Regression, Random Forest, etc.)
+* Machine Learning Algorithms (Logistic Regression)
 * Data Preprocessing & Feature Engineering Techniques
 
 🎯 Objectives
